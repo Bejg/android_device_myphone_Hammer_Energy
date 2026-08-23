@@ -1,0 +1,5 @@
+*.o
+*.cmd
+*~
+.DS_Store
+out/
