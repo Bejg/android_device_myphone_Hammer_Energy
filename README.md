@@ -17,7 +17,7 @@ Custom recovery tree for **myPhone Hammer Energy** based on MediaTek MT6737T.
 
 ```bash
 # Initialize repo
-repo init -u [https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git](https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git) -b twrp-7.1
+repo init -u [https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git](https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git) -b twrp-8.1
 
 # Sync sources
 repo sync
