@@ -1,4 +1,3 @@
-oot@bejq-pc:/workspace/twrp-build/device/myphone/Hammer_Energy/recovery/root# cat /workspace/twrp-build/device/myphone/Hammer_Energy/BoardConfig.mk
 # Zezwolenie na brakujące zależności
 ALLOW_MISSING_DEPENDENCIES := true
 
